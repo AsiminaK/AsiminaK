@@ -1,4 +1,4 @@
-![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_QyBdLwd550WEizOGQh6-1xCNiE65DZp7S8WQKvQDBWnv4v9iBxAyErdrWhU-vf5jLU8&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Asimina Karazioga</h1>
 <h3 align="center">A passionate frontend developer with a flair for creating visually stunning websites</h3>

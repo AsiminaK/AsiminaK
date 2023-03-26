@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_QyBdLwd550WEizOGQh6-1xCNiE65DZp7S8WQKvQDBWnv4v9iBxAyErdrWhU-vf5jLU8&usqp=CAU)
+![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
 
 <h1 align="center">Hi 👋, I'm Asimina Karazioga</h1>
 <h3 align="center">A passionate frontend developer with a flair for creating visually stunning websites</h3>

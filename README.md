@@ -1,5 +1,3 @@
-![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
-
 <h1 align="center">Hi 👋, I'm Asimina Karazioga</h1>
 <h3 align="center">A passionate frontend developer with a flair for creating visually stunning websites</h3>
 <img align="right" alt="Coding" width="400" src="https://www.pngmart.com/files/22/Programmer-PNG-Photos.png">
@@ -7,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiminak&label=Profile%20views&color=0e75b6&style=flat" alt="asiminak" /> </p>
 
-- 🔭 I’m currently working on **my thesis "e-class"**
+- 🔭 Working on **my thesis "e-class"**
 
-- 📖 I’m currently studying **at the University of Pireaus, Department of Informatics**
+- 📖 Studying **at the University of Pireaus, Department of Informatics**
 
-- 🌱 I'm passionate about **front-end development and always eager to expand my knowledge and skills through new challenges and opportunities for growth.**
+- 🌱 Passionate about **front-end development and always eager to expand my knowledge and skills through new challenges and opportunities for growth.**
 
 - 📫 How to reach me **mkarazioga@gmail.com**
 

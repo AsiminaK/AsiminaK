@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiminak&label=Profile%20views&color=0e75b6&style=flat" alt="asiminak" /> </p>
 
-- 🔭 Working on **my thesis "e-class"**
+- 🔭 Working on **my thesis "TechTopia"**
 
 - 📖 I’m currently learning **Knockout.js**
 

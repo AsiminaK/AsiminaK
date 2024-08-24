@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiminak&label=Profile%20views&color=0e75b6&style=flat" alt="asiminak" /> </p>
 
-- 🔭 Working on **my thesis "TechTopia"**
+- 🔭 Recently completed **my thesis "TechTopia"** and earned a Bachelor of Computer Science degree.
 
-- 📖 I’m currently learning **Knockout.js**
+- 📖 I’m currently learning **ASP.NET**
 
-- 👩‍🎓 Studying **at the University of Pireaus, Department of Informatics**
+- 👩‍🎓 🎓 Graduated from the **University of Piraeus, Department of Informatics**, specializing in **Software Technology and Intelligent Systems** with a grade of **8.14**.
 
 - 🌱 Passionate about **web development and always eager to expand my knowledge and skills through new challenges and opportunities for growth.**
 

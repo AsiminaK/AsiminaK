@@ -6,7 +6,7 @@
 
 - 🔭 Recently completed **my thesis "TechTopia"** and earned a Bachelor of Computer Science degree.
 
-- 📖 I’m currently learning **ASP.NET**
+- 📖 I’m currently learning **Angular** & **Tailwind CSS**
 
 - 👩‍🎓 🎓 Graduated from the **University of Piraeus, Department of Informatics**, specializing in **Software Technology and Intelligent Systems** with a grade of **8.14**.
 
